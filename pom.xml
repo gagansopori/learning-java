@@ -16,7 +16,7 @@
 		<module>data-structures</module>
 		<module>leetcode-problems</module>
 		<module>object-oriented-design</module>
-		<module>algorithms</module>
+		<module>algorithm-design</module>
 	</modules>
 	<dependencies>
 		<dependency>
